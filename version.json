@@ -1,5 +1,5 @@
 {
-  "version": "3.4.0",
-  "changelog": "Bug fixes & Performance-Verbesserungen",
+  "version": "3.5.0",
+  "changelog": "Notes blinkt nicht mehr. Kalorientracker übersetzt und vergangene Tage nachtragen hinzugefügt. Notes Verbesserungen. AI Fotoerkennung KalTrack. hinzugefügt/repariert. Monatsberichte hinzugefügt. ",
   "force": false
 }
